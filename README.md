@@ -8,4 +8,6 @@ Usage:
 
 1) Add execute permission "chmod +x parse_voyager.sh"
 
-2) "./parse_voyager.sh <filename>.Archive"
+2) "./parse_voyager.sh (filename).Archive"
+
+3) (filename).Archive.xml will be generated
